@@ -1,2 +1,2 @@
 # Interference-of-light
-光的干涉
+本科C语言课设：光的干涉
